@@ -31,6 +31,10 @@ Welcome to my portfolio, where I showcase projects involving data analysis, busi
 * 🤖 Machine Learning
 * 📈 Tableau Dashboard
 
+* 🇭🇰 [**Hong Kong Trading Sector — Industry & Business Performance Analysis**](https://github.com/Ed-Yeung/HK-Trading-Business-Analysis)
+  * Python + Tableau analysis of Hong Kong's Import/Export, Wholesale and Retail Trades Sector (2015–2024)
+  * Industry productivity, business structure, cost analysis and banking insights
+    
 ### 🛠️ Tools
 
 **Languages:** SQL, Python
