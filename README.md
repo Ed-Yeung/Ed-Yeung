@@ -16,13 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-# 👋 Hi, I'm [Your Name]
-
-🎓 First-class Honours BBA graduate in Information Management (Business Intelligence) from City University of Hong Kong.
+# 👋 Hi, I'm Ed
 
 📊 I'm interested in **Business Intelligence, Data Analytics, and using data to solve business problems**.
 
-Currently building projects in **SQL, Python, Machine Learning, and Tableau** while developing my analytics portfolio.
+Currently building projects in **SQL, Python, Machine Learning, and Tableau**.
 
 ### 📚 Projects
 
@@ -42,8 +40,4 @@ Welcome to my portfolio, where I showcase projects involving data analysis, busi
 **Visualization:** Tableau, Matplotlib
 
 **Other:** Excel, VBA
-
-### 👋 Connect with Me
-
-* [LinkedIn](YOUR_LINKEDIN_URL)
 
