@@ -14,3 +14,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# 👋 Hi, I'm [Your Name]
+
+🎓 First-class Honours BBA graduate in Information Management (Business Intelligence) from City University of Hong Kong.
+
+📊 I'm interested in **Business Intelligence, Data Analytics, and using data to solve business problems**.
+
+Currently building projects in **SQL, Python, Machine Learning, and Tableau** while developing my analytics portfolio.
+
+### 📚 Projects
+
+Welcome to my portfolio, where I showcase projects involving data analysis, business intelligence, and machine learning.
+
+* 📊 SQL Business Analysis
+* 🐍 Python Exploratory Data Analysis
+* 🤖 Machine Learning
+* 📈 Tableau Dashboard
+
+### 🛠️ Tools
+
+**Languages:** SQL, Python
+
+**Data Analysis:** Pandas, NumPy
+
+**Visualization:** Tableau, Matplotlib
+
+**Other:** Excel, VBA
+
+### 👋 Connect with Me
+
+* [LinkedIn](YOUR_LINKEDIN_URL)
+
