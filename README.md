@@ -26,12 +26,6 @@ Currently building projects in **SQL, Python, Machine Learning, and Tableau**.
 
 Welcome to my portfolio, where I showcase projects involving data analysis, business intelligence, and machine learning.
 
-* 📊 SQL Business Analysis
-* 🐍 Python Exploratory Data Analysis
-* 🤖 Machine Learning
-* 📈 Tableau Dashboard
-
-* project List:
 * 🇭🇰 [**Hong Kong Trading Sector — Industry & Business Performance Analysis**](https://github.com/Ed-Yeung/Hong-Kong-Trading-Sector-Industry-Business-Performance-Analysis)
   * Python + Tableau analysis of Hong Kong's Import/Export, Wholesale and Retail Trades Sector (2015–2024)
   * Industry productivity, business structure, cost analysis and banking insights
