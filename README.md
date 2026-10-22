@@ -12,7 +12,7 @@ Welcome to my portfolio, where I showcase projects in business analysis, data vi
 - Python and Tableau analysis of Hong Kong's Import/Export, Wholesale and Retail Trades Sector (2015–2024).
 - Explores industry productivity, business structure, cost trends, and banking insights.
 
-### 🇧🇷 Olist E-Commerce — Late Delivery Prediction
+### 🇧🇷 [Olist E-Commerce — Late Delivery Prediction] (https://github.com/Ed-Yeung/Olist-e-commerce-late-delivery-classification-)
 <!-- Add the public Olist repository link to this heading once the project has been published. -->
 - End-to-end analysis of Brazilian e-commerce delivery performance using the Olist dataset.
 - Includes exploratory data analysis, geographic and time-based patterns, feature engineering, and machine-learning models for late-delivery risk.
