@@ -1,4 +1,4 @@
-[Uploading profile_README_updated (2).md…]()
+
 # Hi, I'm Ed 👋
 
 📊 I'm interested in **Business Intelligence, Data Analytics, and using data to solve business problems**.
