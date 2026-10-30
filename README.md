@@ -9,7 +9,7 @@ I build projects with **SQL, Python, Machine Learning, and Tableau**, turning ra
 
 Welcome to my portfolio, where I showcase projects in business analysis, data visualization, and machine learning.
 
-### 🇧🇷 [Olist E-Commerce — Late Delivery Prediction](https://github.com/Ed-Yeung/Olist-e-commerce-late-delivery-classification-)
+### 🇧🇷 [Olist E-Commerce — Late Delivery Analysis](https://github.com/Ed-Yeung/Olist-e-commerce-late-delivery-/blob/main/README.md)
 - End-to-end analysis of Brazilian e-commerce delivery performance using the Olist dataset.
 - Includes exploratory data analysis, geographic and time-based patterns, feature engineering, and machine-learning models for late-delivery risk.
 - Translates findings into operational recommendations for delivery planning, seller monitoring, and customer communication.
